@@ -1,4 +1,4 @@
-package com.example.fortnitequiz
+package app.example.marvelquiz
 
 import org.junit.Test
 
