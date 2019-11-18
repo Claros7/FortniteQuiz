@@ -2,7 +2,8 @@ package app.example.marvelquiz
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.fortnitequiz.R
+import com.example.marvelquiz.R
+
 
 class Acerca : AppCompatActivity() {
 

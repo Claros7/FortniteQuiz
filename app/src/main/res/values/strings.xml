@@ -1,7 +1,7 @@
 <resources>
-        <string name="app_name">Adivinalo</string>
+        <string name="app_name">Marver Quiz</string>
         <string name="claros">claros</string>
-        <string name="adivinalo">Adivinalo</string>
+        <string name="marvelquiz">Marvel Quiz</string>
         <string name="adivina">ADIVINA</string>
         <string name="empezar">EMPEZAR</string>
         <string name="acerda_de">ACERDA DE</string>

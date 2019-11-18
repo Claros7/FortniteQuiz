@@ -9,7 +9,7 @@ import android.widget.EditText
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import com.example.fortnitequiz.R
+import com.example.marvelquiz.R
 import kotlinx.android.synthetic.main.activity_jugar.*
 
 class Jugar : AppCompatActivity() {

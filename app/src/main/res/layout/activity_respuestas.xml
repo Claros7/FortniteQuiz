@@ -9,7 +9,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.fortnitequiz.app.example.fortnitequiz.Respuestas">
+    tools:context="app.example.marvelquiz.Respuestas">
 
     <ScrollView5
         android:layout_width="match_parent"
@@ -804,7 +804,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     app:srcCompat="@mipmap/img2"
-                    tools:ignore="ContentDescription,TooManyViews"
+                    tools:ignore="ContentDescription"
                     android:clickable="true"
                     android:layout_weight="1"
                     android:cropToPadding="false"
